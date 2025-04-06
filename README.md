@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hii%20RJ%20Here!)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hii%20Mojam%20Here!)
 
 ## 🙋‍♂️ About Me
 - 👨🏼‍🎓 Computer Engineering student at Lovely Professional University (LPU).
